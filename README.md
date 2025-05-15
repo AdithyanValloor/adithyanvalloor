@@ -1,5 +1,30 @@
 <h1>Hi 👋, I'm Adithyan</h1>
-<p>A passionate Full Stack Developer specializing in the MERN stack — MongoDB, Express.js, React, and Node.js. I love building scalable, efficient, and user-friendly web applications from the ground up.  With a strong foundation in JavaScript and TypeScript, I focus on writing clean, maintainable code and following best practices in software design, API development, and testing. I'm also comfortable working with tools like Docker, Git, GitHub Actions, and various deployment platforms such as Render, Vercel, and Firebase.  Beyond coding, I’m continuously learning and exploring new technologies, including:  ⚙️ System Design  ☁️ Cloud & DevOps  🛡️ Cybersecurity  I believe in project-based learning, real-world problem solving, and constantly pushing my limits to grow as a developer.  💬 “Code is not just syntax — it’s a craft. I build, break, debug, and learn.”  Let’s build something great together!</p>
+<!-- <p>A passionate Full Stack Developer specializing in the MERN stack — MongoDB, Express.js, React, and Node.js. I love building scalable, efficient, and user-friendly web applications from the ground up.  With a strong foundation in JavaScript and TypeScript, I focus on writing clean, maintainable code and following best practices in software design, API development, and testing. I'm also comfortable working with tools like Docker, Git, GitHub Actions, and various deployment platforms such as Render, Vercel, and Firebase.  Beyond coding, I’m continuously learning and exploring new technologies, including:  ⚙️ System Design  ☁️ Cloud & DevOps  🛡️ Cybersecurity  I believe in project-based learning, real-world problem solving, and constantly pushing my limits to grow as a developer.  💬 “Code is not just syntax — it’s a craft. I build, break, debug, and learn.”  Let’s build something great together!</p> -->
+
+## 🧑‍💻 About Me
+
+A passionate **Full Stack Developer** specializing in the **MERN stack** — MongoDB, Express.js, React, and Node.js.  
+I love building **scalable**, **efficient**, and **user-friendly** web applications from the ground up.
+
+With a solid foundation in **JavaScript** and **TypeScript**, I focus on:
+- ✨ Writing **clean**, **maintainable** code  
+- 📐 Following **best practices** in software design, API development, and testing  
+- 🛠️ Using tools like **Docker**, **Git**, **GitHub Actions**  
+- ☁️ Deploying on platforms like **Render**, **Vercel**, **Firebase**, and **AWS**
+
+---
+
+### 🧠 Currently Exploring:
+- ⚙️ **System Design**
+- ☁️ **Cloud & DevOps** (AWS, CI/CD, serverless)
+- 🛡️ **Cybersecurity**
+
+---
+
+> *“Code is not just syntax — it’s a craft. I build, break, debug, and learn.”*
+
+Let’s build something great together! 🚀
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
