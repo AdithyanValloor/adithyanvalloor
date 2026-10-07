@@ -105,11 +105,10 @@ WebSockets
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="42" height="42" alt="Nginx"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" height="42" alt="AWS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="52" height="42" alt="Google Cloud"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="42" height="42" alt="Kubernetes"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="42" height="42" alt="GitHub Actions"/>
 </p>
 
-**Docker · Docker Compose · Nginx · Linux · GCP · AWS · Kubernetes · GitHub Actions · CI/CD**
+**Docker · Docker Compose · Nginx · Linux · GCP · AWS · GitHub Actions · CI/CD**
 
 ### 🧪 Testing & Quality
 
