@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Adithyan N B</h1>
+<h1 align="center">Hey 👋, I'm Adithyan Valloor</h1>
 
 <p align="center">
   <strong>Backend-Focused Full Stack Developer</strong> · Node.js · TypeScript · Distributed Systems · DevOps
